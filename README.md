@@ -50,7 +50,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 
 ## Week 1-2 - Algorithms & Machine Learning
 - Columbia https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/
-- Columbia https://www.edx.org/course/machine-learning-for-data-science-and-analytics
+- Try this if above one is not available: https://www.edx.org/course/machine-learning-for-data-science-and-analytics
 
 ## Week 3 - Deep Learning
 - Part 1 and 2 of DL Book https://www.deeplearningbook.org/ 
