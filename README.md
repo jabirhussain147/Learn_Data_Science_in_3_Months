@@ -33,7 +33,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability
 
 ## Week 3 Data Pre-processing, Data Visualization, Exploratory Data Analysis
-- EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis
+- EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis-2
 
 ## Week 4 Kaggle Project #1
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
